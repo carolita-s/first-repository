@@ -1,2 +1,2 @@
 # first-repository
-Mi primer repositorio, para el curso.
+Mi primer repositorio, para el curso
